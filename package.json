@@ -1,0 +1,11 @@
+{
+  "name": "cloudy_docker",
+  "version": "1.0.0",
+  "description": "dockerfile project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Chmurkowa aplikacja budzi się do życia && exit 1"
+  },
+  "author": "Ewelina",
+  "license": "ISC"
+}
