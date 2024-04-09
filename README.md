@@ -3,11 +3,15 @@ PAwCHO
 
 Aby zbudować obraz należy użyć polecenia 
 
+```
 docker build -t nazwa_obrazu
+```
 
 Aby uruchomić kontener należy użyć polecenia
 
+```
 docker run -p numer_portu --name=nazwa_kontenera nazwa_obrazu
+```
 
 Efekt działania aplikacji node.js
 
